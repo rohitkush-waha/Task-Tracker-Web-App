@@ -2,8 +2,6 @@
 
 
 
-Certainly! Here's a beginner-friendly JavaScript project idea:
-
 **Task Tracker Web App**
 
 **Project Description:**
